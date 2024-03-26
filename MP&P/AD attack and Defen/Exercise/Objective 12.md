@@ -1,0 +1,3 @@
+- Check if student has Replication (DCSync) rights
+- If yes, execute the DCSync attack to pull hashes of the krbtgt user
+- If no, add the replication rights for the student1 and execute the DCSync attack to pull hashes of the krbtgt user.

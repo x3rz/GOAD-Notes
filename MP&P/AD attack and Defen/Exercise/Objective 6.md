@@ -1,0 +1,1 @@
+- Setup BloodHound and identify a machine where student has local has local administrative access.

@@ -1,0 +1,1 @@
+- Using the kerberoast attack, crack password of a SQL server service account.

@@ -1,0 +1,1 @@
+- Use Domain Admin Privileges obtain DSRM and abuse credential for persistence.

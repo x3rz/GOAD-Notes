@@ -1,0 +1,211 @@
+{
+  "main": {
+    "id": "b896d7de45a9904f",
+    "type": "split",
+    "children": [
+      {
+        "id": "e518311df1e5e4cd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b2708008794cb5cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OSCP/Enumeration/Workflow 3.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "58e2585ac8b332dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GOAD/Recon.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5285bf3294395496",
+    "type": "split",
+    "children": [
+      {
+        "id": "ec96f4ce5fe0b6fc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "404db7f5599b3992",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bf646cb0e21a8a15",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "workflow",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "865e8745e6b41a06",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c03feec481e37b5b",
+    "type": "split",
+    "children": [
+      {
+        "id": "10075a9b6cc9dc7e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cb9b9d41463a94f4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "GOAD/Recon.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c1d9d3b11dcf74d1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "GOAD/Recon.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dd05a40494aed418",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8079dc394277257b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "GOAD/Recon.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "58e2585ac8b332dc",
+  "lastOpenFiles": [
+    "OSCP/Enumeration/Workflow 3.md",
+    "GOAD/Recon.md",
+    "GOAD/WORKFLOW.md",
+    "GOAD",
+    "MP&P/_resources/printspooferpng.png",
+    "MP&P/_resources/printspoofer3.png",
+    "MP&P/_resources/printerspoof2.png",
+    "MP&P/_resources/mimikatz golden ticket.png",
+    "MP&P/_resources/fb4f5bfe830643d2ab2e8c77a33c7554.png",
+    "MP&P/_resources/fa427da2aae54bbda729a76c7eee9b3f.png",
+    "MP&P/_resources/f3c362b8b8614caabba682bb5b5284b5.png",
+    "MP&P/_resources/f0edf10967464654a7a3da130e70e664.png",
+    "MP&P/_resources/f02df59b7c17400f92f8d3508721c32a.png",
+    "MP&P/_resources/ef862e55655d445bbdd182e418fa348a.png",
+    "MP&P/_resources",
+    "MP&P/OSCP/Workflow.md",
+    "MP&P/OSCP/Bash Profile.md",
+    "MP&P/OSCP",
+    "MP&P/How to prepare/How To.md",
+    "MP&P/How to prepare",
+    "MP&P/Defense/Pass The Ticket Defense.md",
+    "MP&P/Defense/DE Defense.md",
+    "MP&P/Defense",
+    "MP&P/Attacks/Token Impersonation.md",
+    "MP&P/Attacks/Silver Ticket.md",
+    "MP&P/Attacks/SMB Relay Attack.md",
+    "MP&P/Attacks/Possble Attacks.md",
+    "MP&P/Attacks/Pass the Ticket.md",
+    "MP&P/Attacks/Paas the Hash Defense.md",
+    "MP&P/Attacks/NTLM Relay Attack.md",
+    "MP&P/Attacks/LLMNR Posioning.md",
+    "MP&P/Attacks/Kerberoasting.md",
+    "MP&P/Attacks/Golden Ticket Attack.md",
+    "MP&P/Attacks/GPP or cPassword Attacks Overview.md",
+    "MP&P/Attacks/ASREP Roasting.md",
+    "MP&P/Attacks",
+    "MP&P/AD attack and Defen/Tools/Kerbroasting.md",
+    "MP&P/AD attack and Defen/Tools/BloodHound.md",
+    "MP&P/AD attack and Defen/Tools",
+    "MP&P/AD attack and Defen/Exercise/Tryhackme Domain enum ex.md",
+    "MP&P/AD attack and Defen/Exercise/Objective 9.md",
+    "MP&P/AD attack and Defen/Exercise/Objective 8.md",
+    "MP&P/AD attack and Defen/Exercise/Objective 7.md",
+    "MP&P/AD attack and Defen/Exercise",
+    "MP&P/AD attack and Defen/9. Detection and Defense.pdf",
+    "MP&P/AD attack and Defen"
+  ]
+}

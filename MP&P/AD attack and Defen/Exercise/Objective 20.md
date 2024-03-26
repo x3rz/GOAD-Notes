@@ -1,0 +1,1 @@
+- With DA privileges on dollarcorp.moneycorp.local, get access to forestshare on the DC of eurocorp.local forest

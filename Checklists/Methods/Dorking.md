@@ -1,0 +1,1 @@
+https://infosecwriteups.com/dorking-for-bug-bounties-d81cc857b2c8

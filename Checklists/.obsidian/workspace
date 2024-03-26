@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "3fff2469a750ab6c",
+    "type": "split",
+    "children": [
+      {
+        "id": "7849c3a9abcbafd5",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Tools/Session Related (Login-page).md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fcfe2c89595bcaed",
+    "type": "split",
+    "children": [
+      {
+        "id": "068d5664a1c5b0b9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d4bdd44bdc01f344",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a337e75ee3c17167",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "xy.",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 408
+  },
+  "right": {
+    "id": "30d1b79d6995c061",
+    "type": "split",
+    "children": [
+      {
+        "id": "63914410b189b98b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b65265b3f28eb4b8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Tools/Session Related (Login-page).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "7849c3a9abcbafd5",
+  "lastOpenFiles": [
+    "Tools/Session Related (Login-page).md",
+    "Methods/Markdown payloads.md",
+    "Fruits.md",
+    "Command Injection.md",
+    "Sensitive Info Leaks.md",
+    "Prototype pollution.md",
+    "Methods/High success Payloads.md",
+    "XSS.md",
+    "File Upload.md",
+    "Forgot Password Checklist.md"
+  ]
+}

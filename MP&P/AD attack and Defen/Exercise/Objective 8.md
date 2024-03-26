@@ -1,0 +1,3 @@
+- Dump hashes on the domain controller of dollarcorp.moneycorp.local
+- Using the NTLM hash of krbtgt account, create a Golden Ticket
+- Use the Golden Ticket to (once again) get domain admin privileges from a machine.

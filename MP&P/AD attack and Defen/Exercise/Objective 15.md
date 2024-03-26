@@ -1,0 +1,4 @@
+- Enumerate users that have Kerberos Preauth disabled.
+- Obtain the encrypted part of AS-REP for such and account
+- Determine if student has permissions to set UserAccountControl flags for any user.
+- If yes, disable Kerberos Preauth on such a user and obtain encrypted part of AS-REP.

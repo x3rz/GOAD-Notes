@@ -1,0 +1,7 @@
+Cheatsheet:
+https://xmind.net/m/CSKSWZ/
+
+
+Thread:
+[https://hackerone.com/reports/723118](https://t.co/tr6ifT1Ffx?amp=1) [https://hackerone.com/reports/751577](https://t.co/TNnFZQjjvS?amp=1) [https://hackerone.com/reports/788375](https://t.co/dXKimK5AS6?amp=1) [https://hackerone.com/reports/258260](https://t.co/Rpsx1TCPkR?amp=1) [https://hackerone.com/reports/547663](https://t.co/mmfchn5yz6?amp=1) [https://hackerone.com/reports/587687](https://t.co/ig0YeM4UWx?amp=1) [https://hackerone.com/reports/725569](https://t.co/Dbei4tBCGo?amp=1) [https://hackerone.com/reports/544329](https://t.co/KP7HIyCHLr?amp=1) [https://hackerone.com/reports/439729](https://t.co/RA34E7GaYi?amp=1) [https://hackerone.com/reports/661978](https://t.co/rHv1V9n3aw?amp=1)
+[https://hackerone.com/reports/318751](https://t.co/qQHa26vluq?amp=1) [https://hackerone.com/reports/42587](https://t.co/BALMYOpHCn?amp=1) [https://hackerone.com/reports/204984](https://t.co/nGuOkBMCUi?amp=1) [https://hackerone.com/reports/404797](https://t.co/2fYlBFMbNT?amp=1) [https://hackerone.com/reports/243943](https://t.co/6e2Nqelm0c?amp=1) [https://hackerone.com/reports/156537](https://t.co/tDJDpiwOJU?amp=1) [https://hackerone.com/reports/398316](https://t.co/Nm4VFqwrWU?amp=1) [https://hackerone.com/reports/181748](https://t.co/yKvSXsOwp5?amp=1) [https://hackerone.com/reports/227522](https://t.co/1D9STb2Lus?amp=1)

@@ -1,0 +1,8 @@
+- Check.py 
+- Create circular offset to take control of EIP
+	- EIP - 386F4337
+- Do the mona command then we found out that EIP is on 2003
+- validation of offset i.e BBBB should be right after 2003
+- Find the Badchars 0x00edf9c8
+- Find the JMP ESP 625011AF
+- 

@@ -1,0 +1,5 @@
+- [ ] Github
+- [ ] Shodan CVE.dorks
+- [ ] Google dorks
+- [ ] Search for API keys, Hard-coded credentials, encryption keys,etc.
+	- [ ] [[Regex to find them]]

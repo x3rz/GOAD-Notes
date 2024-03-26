@@ -1,0 +1,116 @@
+{
+  "main": {
+    "id": "fa9a8e84cbac7123",
+    "type": "split",
+    "children": [
+      {
+        "id": "1dbf1b8ab62bb167",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "12edae4f0d01a9be",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cc4dc1a9e6a960ce",
+    "type": "split",
+    "children": [
+      {
+        "id": "a437c6ae64d4b3ff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e2d07b58581cef87",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2d797eb6981e499b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "add route",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 249.5
+  },
+  "right": {
+    "id": "3e68c4f48a7fa087",
+    "type": "split",
+    "children": [
+      {
+        "id": "cdc8a6ae4461f9c3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b24a954cbe03d9b9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
+  "active": "12edae4f0d01a9be",
+  "lastOpenFiles": [
+    "Networking/notesss.md",
+    "Windows/File transfer.md",
+    "Windows/Getting Shell.md",
+    "Windows/BloodHound.md",
+    "1. Checklist/Services Checklist.md",
+    "Services/SMB.md",
+    "Tips and Tricks EJPT.md",
+    "SSH Hijacking.md",
+    "Basics/PYTHON PACKAGE exploitation by  making malicious.md",
+    "recources/Prep.md"
+  ]
+}

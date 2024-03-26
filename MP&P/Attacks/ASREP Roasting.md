@@ -1,0 +1,3 @@
+- After the user enumeration from Kerberos we can try this technique.
+- This occurs when a ==user account has the privilege "Does not require Pre-Authentication"== set  means that the account **does not** need to provide valid identification before requesting a Kerberos Ticket on the specified user account.
+- 

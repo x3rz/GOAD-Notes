@@ -1,0 +1,2 @@
+- Find a server in dcorp domain where unconstrained Delegation is enabled.
+- Access that server, wait for a Domain Admin to connect to that server and get Domain Admin Privileges.

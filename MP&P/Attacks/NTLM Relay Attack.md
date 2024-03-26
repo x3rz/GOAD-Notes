@@ -1,0 +1,1 @@
+Relay the NTLM hashes to the servers using SMB 

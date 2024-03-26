@@ -1,0 +1,2 @@
+- Modify security descriptors on dcorp-dc to get access using powershell remoting and WMI without requireing administrator access
+- Retrive machine account hash from scorp-dc without using administrator access use that to execute a Silver ticket attack to get code execution with WMI.

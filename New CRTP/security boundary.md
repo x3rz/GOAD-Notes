@@ -1,0 +1,1 @@
+because if attacker compromise a forest1 as  Enterprise admin or domain admin then he can access everything on forest2 as well.
